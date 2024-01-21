@@ -1,4 +1,5 @@
 # Stoic Mechanic Resource
+![20240118_235348_0000](https://github.com/TheStoicBear/Stoic-Mechanic/assets/112611821/3acb2b59-2284-4642-b802-62244597b047)
 
 This Mechanic resource is a FiveM resource designed to simulate vehicle repair and maintenance for role-playing servers. Mechanics and players can use this resource to repair and maintain vehicles within the game.
 
